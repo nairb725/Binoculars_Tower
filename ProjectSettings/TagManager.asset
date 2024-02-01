@@ -6,6 +6,8 @@ TagManager:
   tags:
   - tower1
   - tower2
+  - bullet
+  - plane
   layers:
   - Default
   - TransparentFX
@@ -15,10 +17,10 @@ TagManager:
   - UI
   - tower1
   - tower2
-  - 
-  - 
-  - 
-  - 
+  - planeLauncher
+  - launcherBullet
+  - bullet
+  - plane
   - 
   - 
   - 

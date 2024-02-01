@@ -450,6 +450,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 8121325009035114920, guid: 55ce674636de18345aa9aeac290abeac, type: 2}
     - target: {fileID: 5302789948022143603, guid: baead33e453cfab44b5741142b9b9513, type: 3}
+      propertyPath: m_enableWordWrapping
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5302789948022143603, guid: baead33e453cfab44b5741142b9b9513, type: 3}
       propertyPath: m_hasFontAssetChanged
       value: 0
       objectReference: {fileID: 0}
